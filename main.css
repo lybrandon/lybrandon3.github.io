@@ -18,3 +18,9 @@ a {
 color: #69CBBB;
 text-decoration: none;
 }
+
+.image {
+  postion: absolute;
+  top: 400px;
+  left: 400px;
+}

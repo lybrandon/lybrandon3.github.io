@@ -1,26 +1,25 @@
-body {
+/* body {
   margin: 30px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
-  padding: 30px 20px;
 }
 
 h1 {
   padding: 20px 0px 10px 0px;
 }
 
-body {
-text-align: center;
+h2 {
+  position: fixed;
 }
 
 a {
-color: #69CBBB;
-text-decoration: none;
-}
+  color: #69CBBB;
+  text-decoration: none;
+} */
 
-.image {
+/* .image {
   postion: absolute;
   top: 400px;
   left: 400px;
-}
+} */
